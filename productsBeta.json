@@ -1,0 +1,584 @@
+{
+    "jackets": {
+        "Supreme\u00ae/Schott\u00ae Fringe Suede Coat": {
+            "Colours": [
+                "Red",
+                "Black"
+            ],
+            "Price": "\u20ac658",
+            "Sizes": [
+                "Small",
+                "Medium",
+                "Large",
+                "XLarge"
+            ],
+            "BuyIt": false
+        },
+        "Checks Embroidered Denim Jacket": {
+            "Colours": [
+                "Blue",
+                "Black"
+            ],
+            "Price": "\u20ac288",
+            "Sizes": [
+                "Medium",
+                "Large"
+            ],
+            "BuyIt": false
+        },
+        "Supreme Team Puffy Jacket ": {
+            "Colours": [
+                "Black",
+                "Gold",
+                "Teal",
+                "Purple"
+            ],
+            "Price": "\u20ac198",
+            "BuyIt": false
+        },
+        "Track Half Zip Pullover": {
+            "Colours": [
+                "Red Glen Plaid",
+                "Black",
+                "Tan Glen Plaid"
+            ],
+            "Price": "\u20ac158",
+            "Sizes": [
+                "Medium",
+                "Large",
+                "XLarge"
+            ],
+            "BuyIt": false
+        },
+        "Canvas Hooded Work Jacket": {
+            "Colours": [
+                "Marsh Camo",
+                "Work Green",
+                "Red",
+                "Black"
+            ],
+            "Price": "\u20ac198",
+            "Sizes": [
+                "Medium",
+                "Large"
+            ],
+            "BuyIt": false
+        }
+    },
+    "shirts": {
+        "Printed Plaid Shirt": {
+            "Colours": [
+                "Red",
+                "Light Blue",
+                "Tan"
+            ],
+            "Price": "\u20ac128",
+            "Sizes": [
+                "Medium",
+                "Large",
+                "XLarge"
+            ],
+            "BuyIt": false
+        }
+    },
+    "tops-sweaters": {
+        "Qualit\u00e9 Sweater": {
+            "Colours": [
+                "Navy",
+                "Pink",
+                "Black"
+            ],
+            "Price": "\u20ac148",
+            "Sizes": [
+                "XLarge"
+            ],
+            "BuyIt": false
+        },
+        "Mesh Hooded L/S Baseball Jersey": {
+            "Colours": [
+                "Orange",
+                "White",
+                "Black"
+            ],
+            "Price": "\u20ac128",
+            "Sizes": [
+                "Medium",
+                "Large",
+                "XLarge"
+            ],
+            "BuyIt": false
+        },
+        "Studded L/S Top": {
+            "Colours": [
+                "White",
+                "Orange",
+                "Navy",
+                "Red",
+                "Ash Grey",
+                "Black"
+            ],
+            "Price": "\u20ac88",
+            "Sizes": [
+                "Large",
+                "XLarge"
+            ],
+            "BuyIt": false
+        },
+        "Small Box L/S Tee": {
+            "Colours": [
+                "Dark Lime",
+                "Black",
+                "White",
+                "Light Royal",
+                "Peach",
+                "Purple",
+                "Red"
+            ],
+            "Price": "\u20ac68",
+            "Sizes": [
+                "Medium",
+                "Large",
+                "XLarge"
+            ],
+            "BuyIt": false
+        },
+        "Arc Appliqu\u00e9 S/S Top": {
+            "Colours": [
+                "White Stripe",
+                "Red",
+                "Black",
+                "Purple",
+                "Acid Green"
+            ],
+            "Price": "\u20ac78",
+            "Sizes": [
+                "Large",
+                "XLarge"
+            ],
+            "BuyIt": false
+        }
+    },
+    "sweatshirts": {
+        "Rammellzee Hooded Sweatshirt": {
+            "Colours": [
+                "Multicolor"
+            ],
+            "Price": "\u20ac178",
+            "Sizes": [
+                "Medium",
+                "Large"
+            ],
+            "BuyIt": false
+        },
+        "Stars Crewneck": {
+            "Colours": [
+                "Ice Blue",
+                "Red",
+                "Black",
+                "Ash Grey"
+            ],
+            "Price": "\u20ac168",
+            "BuyIt": false
+        },
+        "Gems Hooded Sweatshirt": {
+            "Colours": [
+                "Purple",
+                "Orange",
+                "Ash Grey",
+                "Ice Blue",
+                "Black"
+            ],
+            "Price": "\u20ac168",
+            "Sizes": [
+                "Medium",
+                "Large",
+                "XLarge"
+            ],
+            "BuyIt": false
+        },
+        "XXL Hooded Sweatshirt": {
+            "Colours": [
+                "Yellow",
+                "Navy",
+                "Ash Grey",
+                "Black",
+                "Purple"
+            ],
+            "Price": "\u20ac168",
+            "BuyIt": false
+        },
+        "Tonal Webbing Hooded Sweatshirt": {
+            "Colours": [
+                "Dark Aqua",
+                "Red",
+                "Violet",
+                "Natural",
+                "Black"
+            ],
+            "Price": "\u20ac168",
+            "Sizes": [
+                "Medium",
+                "Large"
+            ],
+            "BuyIt": false
+        }
+    },
+    "pants": {
+        "Rammellzee Sweatpant": {
+            "Colours": [
+                "Multicolor"
+            ],
+            "Price": "\u20ac178",
+            "Sizes": [
+                "Small",
+                "Medium",
+                "Large",
+                "XLarge"
+            ],
+            "BuyIt": false
+        },
+        "Track Pant": {
+            "Colours": [
+                "Tan Glen Plaid",
+                "Red Glen Plaid",
+                "Black"
+            ],
+            "Price": "\u20ac128",
+            "Sizes": [
+                "Small",
+                "Medium",
+                "Large",
+                "XLarge"
+            ],
+            "BuyIt": false
+        },
+        "Loose Fit Jean": {
+            "Colours": [
+                "Washed Blue"
+            ],
+            "Price": "\u20ac168",
+            "Sizes": [
+                "30 ",
+                "32 ",
+                "34 ",
+                "36 "
+            ],
+            "BuyIt": false
+        },
+        "Work Pant": {
+            "Colours": [
+                "Black Flags",
+                "Flags",
+                "Navy",
+                "Pale Pink",
+                "Red",
+                "Khaki",
+                "Black",
+                "Dusty Blue"
+            ],
+            "Price": "\u20ac118",
+            "Sizes": [
+                "32 ",
+                "34 ",
+                "36 "
+            ],
+            "BuyIt": false
+        },
+        "Washed Regular Jean": {
+            "Colours": [
+                "Red",
+                "Blue",
+                "Black"
+            ],
+            "Price": "\u20ac168",
+            "BuyIt": false
+        },
+        "Stone Washed Black Slim Jean": {
+            "Colours": [
+                "Washed Black"
+            ],
+            "Price": "\u20ac168",
+            "BuyIt": false
+        },
+        "Rigid Slim Jean": {
+            "Colours": [
+                "Rigid Indigo"
+            ],
+            "Price": "\u20ac178",
+            "Sizes": [
+                "32 ",
+                "34 "
+            ],
+            "BuyIt": false
+        },
+        "Stone Washed Slim Jean": {
+            "Colours": [
+                "Stone Washed Indigo"
+            ],
+            "Price": "\u20ac188",
+            "BuyIt": false
+        }
+    },
+    "shorts": {
+        "Tonal Webbing Sweatshort": {
+            "Colours": [
+                "Violet",
+                "Dark Aqua",
+                "Black",
+                "Red",
+                "Natural"
+            ],
+            "Price": "\u20ac118",
+            "BuyIt": false
+        }
+    },
+    "t-shirts": {
+        "Rammellzee Tee": {
+            "Colours": [
+                "Black",
+                "White",
+                "Light Pink",
+                "Royal",
+                "Green"
+            ],
+            "Price": "\u20ac48",
+            "BuyIt": false
+        },
+        "Rammellzee Tag Tee": {
+            "Colours": [
+                "Royal",
+                "Black",
+                "Light Pink",
+                "Green",
+                "White"
+            ],
+            "Price": "\u20ac48",
+            "BuyIt": false
+        }
+    },
+    "hats": {
+        "Wide Wale Corduroy Camp Cap": {
+            "Colours": [
+                "Natural",
+                "Black",
+                "Purple",
+                "Orange"
+            ],
+            "Price": "\u20ac50",
+            "BuyIt": false
+        },
+        "Snakeskin Mesh Camp Cap": {
+            "Colours": [
+                "Brown",
+                "Pale Green",
+                "Navy",
+                "Red",
+                "Black"
+            ],
+            "Price": "\u20ac50",
+            "BuyIt": false
+        },
+        "Supreme Team 6-Panel ": {
+            "Colours": [
+                "White",
+                "Teal",
+                "Yellow",
+                "Black"
+            ],
+            "Price": "\u20ac46",
+            "BuyIt": false
+        },
+        "Intelligence 6-Panel": {
+            "Colours": [
+                "Cardinal",
+                "Royal",
+                "Orange",
+                "Black",
+                "White"
+            ],
+            "Price": "\u20ac46",
+            "BuyIt": false
+        },
+        "Worldwide Mesh Back 5-Panel": {
+            "Colours": [
+                "Navy",
+                "Red",
+                "Acid Yellow",
+                "Black",
+                "White"
+            ],
+            "Price": "\u20ac44",
+            "BuyIt": false
+        },
+        "Logo Repeat Beanie": {
+            "Colours": [
+                "Orange",
+                "Mint",
+                "White",
+                "Black"
+            ],
+            "Price": "\u20ac36",
+            "BuyIt": false
+        },
+        "New York Beanie": {
+            "Colours": [
+                "White",
+                "Dark Orange",
+                "Black"
+            ],
+            "Price": "\u20ac36",
+            "BuyIt": false
+        }
+    },
+    "bags": {
+        "Backpack": {
+            "Colours": [
+                "Blue Chocolate Chip Camo",
+                "Black",
+                "Gold",
+                "Dark Red"
+            ],
+            "Price": "\u20ac148",
+            "BuyIt": false
+        },
+        "Big Duffle Bag ": {
+            "Colours": [
+                "Black",
+                "Dark Red",
+                "Blue Chocolate Chip Camo",
+                "Gold"
+            ],
+            "Price": "\u20ac128",
+            "BuyIt": false
+        },
+        "Small Shoulder Bag": {
+            "Colours": [
+                "Gold",
+                "Dark Red",
+                "Blue Chocolate Chip Camo",
+                "Black"
+            ],
+            "Price": "\u20ac44",
+            "BuyIt": false
+        },
+        "Waist Bag": {
+            "Colours": [
+                "Dark Red",
+                "Black",
+                "Gold",
+                "Blue Chocolate Chip Camo"
+            ],
+            "Price": "\u20ac98",
+            "BuyIt": false
+        },
+        "Utility Pouch": {
+            "Colours": [
+                "Blue Chocolate Chip Camo",
+                "Black",
+                "Gold",
+                "Dark Red"
+            ],
+            "Price": "\u20ac30",
+            "BuyIt": false
+        }
+    },
+    "accessories": {
+        "Name Plate 14K Gold Pendant": {
+            "Colours": [
+                "Gold"
+            ],
+            "Price": "\u20ac578",
+            "BuyIt": false
+        },
+        "Supreme\u00ae/Rawlings\u00ae Catcher's Chest Protector": {
+            "Colours": [
+                "Woodland Camo",
+                "Red"
+            ],
+            "Price": "\u20ac228",
+            "BuyIt": false
+        },
+        "Beaded Keychain": {
+            "Colours": [
+                "Multicolor",
+                "Red",
+                "Black"
+            ],
+            "Price": "\u20ac24",
+            "BuyIt": false
+        },
+        "Supreme\u00ae/Hanes\u00ae Tagless Tees (3 Pack)": {
+            "Colours": [
+                "White",
+                "Black"
+            ],
+            "Price": "\u20ac28",
+            "Sizes": [
+                "Small",
+                "Medium",
+                "Large",
+                "XLarge"
+            ],
+            "BuyIt": false
+        },
+        "Supreme\u00ae/Hanes\u00ae Crew Socks (4 Pack)": {
+            "Colours": [
+                "Red",
+                "White",
+                "Black"
+            ],
+            "Price": "\u20ac20",
+            "BuyIt": false
+        },
+        "Supreme\u00ae/Hanes\u00ae Boxer Briefs (4 Pack)": {
+            "Colours": [
+                "White",
+                "Black"
+            ],
+            "Price": "\u20ac36",
+            "Sizes": [
+                "Small",
+                "Medium",
+                "Large",
+                "XLarge"
+            ],
+            "BuyIt": false
+        }
+    },
+    "shoes": {
+        "Supreme\u00ae/Nike\u00ae Air Force 1 Low": {
+            "Colours": [
+                "White",
+                "Black"
+            ],
+            "Price": "\u20ac110",
+            "BuyIt": false
+        }
+    },
+    "skate": {
+        "Supreme\u00ae/Spitfire\u00ae Classic Wheels (Set of 4)": {
+            "Colours": [
+                "Red 51MM",
+                "Gold 58MM",
+                "White 53MM"
+            ],
+            "Price": "\u20ac45",
+            "Sizes": [
+                "51MM"
+            ],
+            "BuyIt": false
+        },
+        "Supreme\u00ae/Independent\u00ae Truck": {
+            "Colours": [
+                "Silver"
+            ],
+            "Price": "\u20ac80",
+            "Sizes": [
+                "129 ",
+                "139 ",
+                "149 "
+            ],
+            "BuyIt": false
+        }
+    }
+}

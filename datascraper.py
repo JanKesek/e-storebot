@@ -36,7 +36,7 @@ def apiToNames(jsonObj):
         data[category]={}
         for product in jsonObj[category]:
             soup=getURLSoup(globalUrl+category+"/"+product)
-            productTitle=soup.find("h1", {"class":"protect"}).text.encode('ascii','ignore')
+            productTitle=soup.find("h1", {"class":"protect"}).text.encode('ascii','ignore').decode('utf-8')
             data[category][productTitle]={
                 "Colours":[],
                 "URLs":[]
@@ -44,9 +44,9 @@ def apiToNames(jsonObj):
             for col in jsonObj[category][product]:
                 styleURL=globalUrl+category+"/"+product+"/"+col
                 soupStyle=getURLSoup(styleURL)
-                data[category][productTitle]["Colours"].append(soupStyle.find("p",{"class":"style protect"}).text.encode('ascii','ignore'))
+                data[category][productTitle]["Colours"].append(soupStyle.find("p",{"class":"style protect"}).text.encode('ascii','ignore').decode('utf-8'))
                 data[category][productTitle]["URLs"].append(styleURL)
-            data[category][productTitle]["Price"]=soup.find("span",{"data-currency":"EUR","itemprop":"price"}).text.encode('ascii','ignore')
+            data[category][productTitle]["Price"]=soup.find("span",{"data-currency":"EUR","itemprop":"price"}).text.encode('ascii','ignore').decode('utf-8')
             sizes=soup.find("select",{"id":"size","name":"size"})
             if sizes!=None:
                 sizes=sizes.findAll("option")
@@ -63,4 +63,7 @@ if __name__ == "__main__":
     basicJson=retrieveJSON("productsAlpha.json")
     advJSON=apiToNames(basicJson)
     print(advJSON)
-    saveJSON("productsBeta.json", advJSON)
+    try:
+        saveJSON("productsBeta.json", advJSON)
+    except TypeError as te:
+        print(te)
